@@ -78,7 +78,7 @@ function App() {
     <div className="App">
       <h1>magic match</h1>
       <button onClick={shuffleCards}>New game</button>
-
+      <p>Turns: { turns }</p>
       <div className="card-grid">
         {cards.map((card) => (
           <SingleCard 
@@ -90,7 +90,6 @@ function App() {
           />
         ))}
       </div>
-      <p>Turns: { turns }</p>
     </div>
 
   );

@@ -3,6 +3,7 @@
 .App {
   max-width: 860px;
   margin: 40px auto;
+  position: relative;
 }
 
 button {
@@ -27,3 +28,11 @@ button:hover {
   grid-gap: 40px;
   margin-top: 40px;
 }
+
+/* .App p {
+  position: absolute;
+  left: -20%;
+  top: 50%;
+} */
+
+
