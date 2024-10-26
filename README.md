@@ -19,7 +19,7 @@ In this memory game, players attempt to match pairs of cards by flipping them tw
 - **Score and Move Tracking**: Tracks the number of moves or time taken to complete the game.
 - **Responsive Design**: Optimized for both desktop and mobile viewing.
 
-## How to play
+## 😀 How to play
 
 1. Open the game and view the cards in their hidden state.
 2. Click on two cards to reveal their content.
